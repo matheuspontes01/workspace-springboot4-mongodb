@@ -12,7 +12,6 @@ Este projeto foi construído com foco em arquitetura limpa, modelagem NoSQL e bo
 - Implementar consultas personalizadas com múltiplos critérios
 - Aplicar tratamento global de exceções
 - Seguir boas práticas de API REST
-- Criar um projeto sólido para portfólio backend Java
 
 ## 🚀 Tecnologias Utilizadas
 
